@@ -10,7 +10,7 @@ export default function App() {
         <p>
           This project was coded by Keri Ritenour and is open-sourced on{" "}
           <a
-            href="https://github.com/keri-codes"
+            href="https://github.com/keri-codes/react-weather-app-project"
             target="_blank"
             rel="noreferrer"
             alt="link to profile page on github"
