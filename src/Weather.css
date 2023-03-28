@@ -36,7 +36,7 @@
   line-height: 80px;
 }
 
-.Weather img {
+.Weather canvas {
   float: left;
   padding-top: 10px;
   margin-right: 10px;

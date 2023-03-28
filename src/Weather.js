@@ -70,7 +70,7 @@ export default function Weather(props) {
         </ul>
         <div className="row mt-3">
           <div className="col-6">
-            <img src={weatherData.iconUrl} alt={weatherData.description} />
+            <img src={weatherData.icon} alt={weatherData.description} />
             <span className="temperature">
               {Math.round(weatherData.temperature)}
             </span>
@@ -78,7 +78,6 @@ export default function Weather(props) {
           </div>
           <div className="col-6">
             <ul>
-              <li>Precipitation: 1%</li>
               <li>Humidity: {weatherData.humidity}%</li>
               <li>Wind: {weatherData.wind} km/h</li>
             </ul>
