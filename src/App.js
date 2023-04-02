@@ -23,7 +23,7 @@ export default function App() {
             <a
               href="https://starlit-brigadeiros-8ef9e1.netlify.app/"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noreferrer"
             >
               Netlify
             </a>
