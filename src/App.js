@@ -20,7 +20,11 @@ export default function App() {
               Github
             </a>{" "}
             and hosted on{" "}
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://starlit-brigadeiros-8ef9e1.netlify.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Netlify
             </a>
             .
