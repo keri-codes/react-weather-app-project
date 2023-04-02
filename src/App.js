@@ -18,6 +18,10 @@ export default function App() {
               alt="link to profile page on github"
             >
               Github
+            </a>{" "}
+            and hosted on{" "}
+            <a href="" target="_blank" rel="noopener noreferrer">
+              Netlify
             </a>
             .
           </p>
