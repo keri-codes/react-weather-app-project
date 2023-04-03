@@ -2,11 +2,16 @@
   text-align: center;
 }
 
+.WeatherForecast-temperature-max {
+  color: #ffffff;
+}
+
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
+  color: #ffffff;
 }
 
 .WeatherForecast-day {
-  color: #1d355e;
+  color: #ffffff;
 }
